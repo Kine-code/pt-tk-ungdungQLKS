@@ -1,0 +1,51 @@
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyKhachSan.resources
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fLogin.resources
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SoDoPhong.resources
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+D:\Visual studio\windows_form\code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fLogin.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyKhachSan.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SoDoPhong.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.KhachHang.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDon.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fLogin.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDon.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.KhachHang.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyKhachSan.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SoDoPhong.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\hieun\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
